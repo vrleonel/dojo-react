@@ -21,3 +21,10 @@ or
 #### Goto to `my-app` folder
  > Inside of folder you have some availables command, they are at `my-app/README.md` file.
 
+
+#### db.json
+
+To access: https://my-json-server.typicode.com/
+
+my-json-server.typicode.com/vrleonel/dojo-react/posts/1
+
