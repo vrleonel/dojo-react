@@ -1,6 +1,7 @@
 import React from 'react';
 // import Hello from './Hello';
 import DoggApp from './DoggoApp';
+import ColorChange from './ColorChange';
 
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
     <div className="App">
       {/* <Hello /> */}
       <DoggApp />
-
+      <ColorChange />
     </div>
   );
 }
