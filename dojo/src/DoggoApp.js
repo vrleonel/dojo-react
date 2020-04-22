@@ -56,7 +56,7 @@ function DoggoApp() {
       </div>
       <div>
         {!loading && (
-          <img onClick={reloadBreed} alt="" src={currentBreedImg} width="400"/>
+          <img onClick={reloadBreed} alt="" role="image" src={currentBreedImg} width="400"/>
         )}
       </div>
     </div>
